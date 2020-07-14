@@ -1,0 +1,9 @@
+
+    .table-responsive{
+      display:table !important;
+    }
+    @media only screen and (max-width: 525px) {
+    .table-responsive {
+        display:block !important;
+    }
+}

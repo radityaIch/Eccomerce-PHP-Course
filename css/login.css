@@ -1,0 +1,29 @@
+nav.navbar{
+	padding:0.5rem 1rem !important;
+}
+
+.navbar-brand{
+	display: inline-block !important;
+    padding-top: .3125rem !important;
+    padding-bottom: .3125rem !important;
+    margin-right: 1rem !important;
+    font-size: 1.25rem !important;
+    line-height: inherit !important;
+    white-space: nowrap !important;
+}
+
+nav.navbar a.navbar-brand{
+	margin-left:0 !important;
+}
+
+nav.navbar a{
+	font-size:1em;
+}
+
+.alert{
+	padding-right:1.65em !important;
+}
+.alert-dismissible .close{
+	padding: 0.75rem 0.25rem !important;
+	right:5px;
+} 
